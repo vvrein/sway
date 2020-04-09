@@ -90,6 +90,7 @@ static const struct cmd_handler handlers[] = {
 	{ "title_align", cmd_title_align },
 	{ "titlebar_border_thickness", cmd_titlebar_border_thickness },
 	{ "titlebar_padding", cmd_titlebar_padding },
+	{ "titlebar_height_fixed", cmd_titlebar_height_fixed },
 	{ "unbindcode", cmd_unbindcode },
 	{ "unbindswitch", cmd_unbindswitch },
 	{ "unbindsym", cmd_unbindsym },
